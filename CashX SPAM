@@ -1,5 +1,4 @@
-	_G.spam = true;
-while _G.spam == true do
+
 	print("join cashx")
 	print("gg./cashx")
 	print("lily, kam, dave are my besties")	
@@ -8,5 +7,3 @@ while _G.spam == true do
 	print("cashx winnnnnnnnnn")
 	print("cashx winnnnnnnnnn")
 	print("cashx winnnnnnnnnn")
-    wait()
-end
